@@ -26,3 +26,5 @@ Command line args are as follows:
   
 -t < tracefile >: Name of the valgrind trace to replay
   
+Use the funciton printSummary for the number of total hits, misses, and evictions
+  
