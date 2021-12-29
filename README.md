@@ -18,11 +18,11 @@ Command line args are as follows:
   
 -v: Optional verbose flag that displays trace info (not implemented)
   
--s < s >: Number of set index bits (S =2s is the number of sets)
+-s < s >: Number of set index bits (S =2^s is the number of sets)
   
 -E < E >: Associativity (number of lines per set)
   
--b < b >: Number of block bits (B =2b is the block size)
+-b < b >: Number of block bits (B =2^b is the block size)
   
 -t < tracefile >: Name of the valgrind trace to replay
   
