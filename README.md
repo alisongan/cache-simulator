@@ -1,4 +1,4 @@
-# cache-hit-and-miss-simulator
+# cache-simulator
 This program simulates (counts the number of hits and misses) the behavior of a cache with a LRU policy. This program reads valgrind reference trace files 
 in the format 
 
