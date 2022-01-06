@@ -1,5 +1,5 @@
 # cache-simulator
-This program simulates (counts the number of hits, misses and misses) the behavior of a cache with a LRU policy. This program reads valgrind reference trace files 
+This was a project for CMSC 15400 at UChicago. This program simulates (counts the number of hits, misses and misses) the behavior of a cache with a LRU policy. This program reads valgrind reference trace files 
 in the format 
 
 [space]operation address,size
